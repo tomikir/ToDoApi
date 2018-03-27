@@ -8,9 +8,9 @@ namespace ToDoApi.Controllers
     [Route("api/[controller]")]
     public class TodoController : Controller
     {
-        private readonly TodoContext _context;
+        private readonly ToDoContext _context;
 
-        public TodoController(TodoContext context)
+        public TodoController(ToDoContext context)
         {
             _context = context;
 
