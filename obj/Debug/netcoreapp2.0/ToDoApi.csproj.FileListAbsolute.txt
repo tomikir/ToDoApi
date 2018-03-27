@@ -1,0 +1,11 @@
+D:\Sandbox\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.deps.json
+D:\Sandbox\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.json
+D:\Sandbox\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.runtimeconfig.dev.json
+D:\Sandbox\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.dll
+D:\Sandbox\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.0\ToDoApi.pdb
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csprojResolveAssemblyReference.cache
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.csproj.CoreCompileInputs.cache
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfoInputs.cache
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.AssemblyInfo.cs
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.dll
+D:\Sandbox\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.0\ToDoApi.pdb
